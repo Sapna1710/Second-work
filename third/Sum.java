@@ -7,6 +7,7 @@ class Sum
 		sum = (a+b);
 		system.out.println("sum is ", + sum);
 		system.out.println("made some changes");
+		system.out.println("made 2nd changes");
 	}
 	
 }
